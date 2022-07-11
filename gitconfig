@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luisvega29@gmail.com
+	name = Luis Vega
